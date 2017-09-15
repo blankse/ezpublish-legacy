@@ -1,5 +1,5 @@
 {
-    "name":        "netgen/ezpublish-legacy",
+    "name":        "datafactory/ezpublish-legacy",
     "description": "eZ Publish LegacyStack (4.x), maintained by Netgen for compatibility with eZ Platform",
     "homepage":    "http://www.netgenlabs.com",
     "license":     "GPL-2.0",
